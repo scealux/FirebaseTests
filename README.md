@@ -1,2 +1,0 @@
-# FirebaseTests
-Created with CodeSandbox
